@@ -217,7 +217,7 @@ For questions or support, please open an issue or contact the maintainers:
 
 ---
 ## Star History Chart
-[![Star History Chart](https://api.star-history.com/svg?repos=openclaw/openclaw&type=date&legend=top-left)](https://www.star-history.com/#openclaw/openclaw&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=MAXNORM8650/MedAgentSim&type=date&legend=top-left)](https://www.star-history.com/#MAXNORM8650/MedAgentSim&type=date&legend=top-left)
 
 
 Made with ❤️ by the MedAgentSim Team
