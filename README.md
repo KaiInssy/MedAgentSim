@@ -216,5 +216,8 @@ For questions or support, please open an issue or contact the maintainers:
 - GitHub: [@MAXNORM8650](https://github.com/MAXNORM8650)
 
 ---
+## Star History Chart
+[![Star History Chart](https://api.star-history.com/svg?repos=openclaw/openclaw&type=date&legend=top-left)](https://www.star-history.com/#openclaw/openclaw&type=date&legend=top-left)
+
 
 Made with ❤️ by the MedAgentSim Team
