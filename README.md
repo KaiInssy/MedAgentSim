@@ -167,12 +167,18 @@ MedAgentSim/
 └── README.md             # This file
 ```
 
-## 🛠️ Development
+## Datasets
+```bash
+from datasets import load_dataset
 
-### Implementing a New Model
+# Load all files
+ds = load_dataset("ItsMaxNorm/MedAgentSim-datasets")
 
-```python
-coming soon!
+# Load a specific file
+ds = load_dataset("ItsMaxNorm/MedAgentSim-datasets", data_files="medqa_v1.parquet")
+
+# Access the data
+print(ds["train"][0])
 ```
 ## 👥 Contributing
 
